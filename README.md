@@ -1,2 +1,3 @@
 # C#
-All about at C# programming language.
+ENG : You can find the sorting algorithms in here.
+TR  : Sıralama algoritmalarını burada bulabilirsin.
