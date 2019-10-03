@@ -1,2 +1,2 @@
 # C#
-C# Programlama Dili ile ilgili paylaşımlarımı burada yapıyorum.
+* C# Programlama Dili ile yazdığım örnekler ve alıştırmalar.
