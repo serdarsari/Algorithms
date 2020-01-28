@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            // BUBBLE SORT
+            // SELECTION SORT
 
             int[] dizi = { 2, 3, 1, 8, -6,-9 };
             int temp=0;
