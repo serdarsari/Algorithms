@@ -1,16 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleApp2
+namespace SelectionSort
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // SELECTION SORT
 
             int[] dizi = { 2, 3, 1, 8, -6,-9 };
             int temp=0;
